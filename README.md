@@ -5,7 +5,7 @@ forgot the question name of a particular website. No worries, go to our website 
 
 #### Website Link - https://tf-idf-search-engine-q2a5.onrender.com
 
-## Developer: GAURAV KUMAR
+## Developer: RISHABH PRASAD
 ## Institution : IIT Kharagpur
 
 # Search Engine
