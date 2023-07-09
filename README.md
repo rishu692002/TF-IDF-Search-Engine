@@ -1,9 +1,6 @@
 # TF-IDF-implimentation 
 
 # Coding-Problem-Search-Engine
-forgot the question name of a particular website. No worries, go to our website and search for your questions by putting relevant keywords and hitting search; 
-
-#### Website Link - https://tf-idf-search-engine-q2a5.onrender.com
 
 ## Developer: RISHABH PRASAD
 ## Institution : IIT Kharagpur
@@ -30,7 +27,7 @@ A search engine that allows users to search for questions based on their query. 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/gamerGK/Algozenith-Hackathon-TF-IDF-implimentation-main.git
+   git clone 
 
 2. Install dependencies:
 
