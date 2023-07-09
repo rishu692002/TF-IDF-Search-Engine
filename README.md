@@ -27,7 +27,7 @@ A search engine that allows users to search for questions based on their query. 
 1. Clone the repository:
 
    ```shell
-   git clone 
+   git clone https://github.com/rishu692002/TF-IDF-Search-Engine.git
 
 2. Install dependencies:
 
